@@ -1,4 +1,4 @@
-# Sorting Algorithms Project
+# Projects From Algorithms Engineering Course  
 
 ## Overview
 This project consists of implementations of various sorting algorithms, as covered in our lectures. The primary aim was to gain hands-on experience by coding these algorithms from scratch, thereby deepening my understanding of their mechanics, efficiencies, and real-world applications.
